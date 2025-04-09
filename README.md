@@ -8,6 +8,10 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 * Aprendendo sobre Branches
 * git avançado
 
+1. começando com git
+2. aprendendo sobre branches
+3. GIT avançado
+
 ### funçoes
 
 #### titulo
