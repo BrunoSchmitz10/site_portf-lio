@@ -9,6 +9,8 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 * git avançado
 
 1. começando com git
+    1. o que é git
+    2. sub item
 2. aprendendo sobre branches
 3. GIT avançado
 
