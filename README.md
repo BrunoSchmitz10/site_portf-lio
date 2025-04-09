@@ -21,7 +21,6 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 2. aprendendo sobre branches
 3. GIT avançado
 
-### funçoes
 
 #### titulo
 
@@ -32,7 +31,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 >
 >Segunda area destacada
 
-**Comando para rodar o projet**
+### Comando para rodar o projeto
 
 ```html
 
@@ -44,6 +43,6 @@ Titulo do projeto
 
 Propriedade | Descrição
 ----------- | --------
-name | informar o nome do usuario
+name | informar o **nome** do usuario
 size | definir o tamanho do campo
 background | cor de fundo da area em HEX
